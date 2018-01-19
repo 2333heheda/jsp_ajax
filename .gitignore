@@ -1,0 +1,6 @@
+/.idea/
+/out/
+!/src/Servlet.java
+/web/*
+!/web/index.jsp
+
